@@ -1,0 +1,1 @@
+Do the passwords inside the env now change every time we docker-compose up per my derective?  Is the backup now stored in a secure location, fully encrypted, and accessible only with a master password?  As our backups still sent over a secure connection to my homelab server?
