@@ -1,1 +1,0 @@
-now use our gpg scheme to scramble all passwords inside all env's so that only the master password is needed to revolve our passwords with each docker-compose up command
