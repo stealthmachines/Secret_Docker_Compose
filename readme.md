@@ -1,5 +1,3 @@
-Certainly! Here’s a rich-formatted `README.md`:
-
 ```markdown
 # 🚀 Secure Docker Compose Environment with Automated Backup and Encryption
 
