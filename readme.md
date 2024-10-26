@@ -142,9 +142,5 @@ volumes:
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the zCHG.org license.
 ```
-
----
-
-Copy this markdown as `README.md` to add clear instructions and context for your secure, automated Docker Compose setup.
