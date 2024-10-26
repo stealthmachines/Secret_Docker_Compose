@@ -1,5 +1,5 @@
 ```markdown
-# 🚀 Secure Docker Compose Environment with Automated Backup and Encryption
+## 🚀 Secure Docker Compose Environment with Automated Backup and Encryption
 
 A streamlined solution for deploying containerized services using Docker Compose, complete with GPG-encrypted environment variables and automated local and remote backups, accessible only with a master password.
 
